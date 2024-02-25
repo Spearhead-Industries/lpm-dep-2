@@ -1,0 +1,8 @@
+author = ""
+dependencies = []
+description = ""
+entrypoint = "./src/main.lua"
+licence = "MIT"
+name = "lpmtestlib"
+repository = ""
+version = "1.0.0"
